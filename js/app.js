@@ -56,6 +56,6 @@ btnPurple.addEventListener('click', () => {
 });
 
 window.addEventListener('load', () => {
-	console.log("This page has been loaded successfull")
+	console.log("This page has been loaded success");
 	new SetPageBgLS();
 })
