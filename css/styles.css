@@ -1,0 +1,72 @@
+*::selection {
+	color: white;
+	background: orangered;
+	text-shadow: 3px 3px 3px orangered;
+	box-shadow: 3px 3px 3px 0px orangered;
+}
+
+.title {
+	font-family: 'arial', sans-serif;
+	font-size: 50px;
+	text-shadow: 3px 3px 3px orange;
+	color: yellow;
+}
+
+.btn {
+	background: rgba(200, 0, 0, 0);
+	border-radius: 7px;
+	transition: all ease 0.5s;
+	padding: 1em;
+	font-family: 'calibri', Arial, sans-serif;
+	font-size: 20px;
+}
+
+.btn:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.red-btn {
+	border: solid red 2.5px;
+	color: red;
+}
+
+.red-btn:hover {
+	background: red;
+}
+
+.green-btn {
+	border: solid green 2.5px;
+	color: green;
+}
+
+.green-btn:hover {
+	background: green;
+}
+
+.yellow-btn {
+	border: solid yellow 2.5px;
+	color: yellow;
+}
+
+.yellow-btn:hover {
+	background: yellow;
+}
+
+.blue-btn {
+	border: solid blue 2.5px;
+	color: blue;
+}
+
+.blue-btn:hover {
+	background: blue;
+}
+
+.purple-btn {
+	border: solid purple 2.5px;
+	color: purple;
+}
+
+.purple-btn:hover {
+	background: purple;
+}
