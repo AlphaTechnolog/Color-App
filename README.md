@@ -15,7 +15,7 @@ Your have a two options:
 
 ### To use:
 
-Open (if you have in (windows)) cmd {{or}} (if you have in (linux) {{or}} (mac)) cmd {{or}} terminal and use this commands:
+Open (if you have in (windows)) cmd {{or}} (if you have in (linux) {{or}} (mac)) terminal and use this commands:
 
 ***
 ~~~
